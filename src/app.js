@@ -16,6 +16,8 @@ const allowedOrigins = [
   "http://localhost:3000",
   "https://airviollc.com",
   "https://www.airviollc.com",
+  "https://fareandclick.com",
+  "https://www.fareandclick.com"
 ];
 
 app.use(
