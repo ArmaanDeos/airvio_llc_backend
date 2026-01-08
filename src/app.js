@@ -17,7 +17,8 @@ const allowedOrigins = [
   "https://airviollc.com",
   "https://www.airviollc.com",
   "https://fareandclick.com",
-  "https://www.fareandclick.com"
+  "https://www.fareandclick.com",
+   "https://flightexperto.com/"
 ];
 
 app.use(
